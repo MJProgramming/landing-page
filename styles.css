@@ -1,0 +1,31 @@
+body {
+    border: 5px solid black;
+    margin: 10px 10px 100px 100px;
+}
+
+.topcont {
+    border: 5px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.topcont .header {
+    display: flex;
+    justify-content: flex-start;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.topcont .links {
+    display: flex;
+    gap: 15px;
+}
+
+.topcont .link {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
