@@ -180,6 +180,11 @@ body {
     padding: 40px;
 }
 
+.div4 button:hover {
+    color:black;
+    background-color: white;
+}
+
 .footer {
     display: flex;
     padding: 20px;
